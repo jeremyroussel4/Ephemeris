@@ -1,23 +1,78 @@
 {
-  "1": "Je n'ai rien à défendre, rien à gagner, rien à perdre.",
-
-  "2": "Je ne regarde plus tellement l'objet de la discussion, je regarde la qualité de ce qui circule.",
-
-  "3": "Je ne retiens rien, je ne force rien. Je laisse les choses passer, comme je passe aussi.",
-
-  "4": "Quand je me tais, le monde entier me parle.",
-
-  "5": "Tu ne peux pas décider à la place des autres de ce qu'ils comprendront, de ce qu'ils retiendront, ni de ce qu'ils te reprocheront.",
-
-  "6": "La vie n'est pas une histoire personnelle à réussir ou à rater.",
-
-  "7": "La compréhension intellectuelle n'a pas nécessairement le pouvoir de dissoudre ce qu'elle explique.",
-
-  "8": "Que les erreurs anciennes deviennent une source de compréhension plutôt qu'un poids sans fin.",
-
-  "9": "Que disparaisse l'idée que je sais quelque chose afin de me taire, d'être à l'écoute et de laisser chacun vivre son expérience.",
-
-  "10": "Que je fasse même abstraction de ce que j'ai vécu. Chaque instant est un renouveau.",
-
-  "11": "Aujourd'hui, je laisse la vie vivre."
+  "1": {
+    "en": "Different sizes are not necessarily a bug.",
+    "fr": "Des tailles différentes ne sont pas forcément un bug."
+  },
+  "2": {
+    "en": "The cards have inconsistent heights.",
+    "fr": "Les cartes ont des hauteurs incohérentes."
+  },
+  "3": {
+    "en": "The cards are not consistently aligned.",
+    "fr": "Les cartes ne sont pas alignées de manière cohérente."
+  },
+  "4": {
+    "en": "The deliverable is ready for submission.",
+    "fr": "Le livrable est prêt à être remis."
+  },
+  "5": {
+    "en": "The bug report is clear, reproducible, and well documented.",
+    "fr": "Le rapport de bug est clair, reproductible et bien documenté."
+  },
+  "6": {
+    "en": "The category is the same, but each bug is different.",
+    "fr": "La catégorie est la même, mais chaque bug est différent."
+  },
+  "7": {
+    "en": "Let's check the official template before making changes.",
+    "fr": "Vérifions le modèle officiel avant d'effectuer des modifications."
+  },
+  "8": {
+    "en": "The deliverable is complete and ready to be submitted.",
+    "fr": "Le livrable est complet et prêt à être remis."
+  },
+  "9": {
+    "en": "The layout becomes difficult to read on very large screens.",
+    "fr": "La mise en page devient difficile à lire sur de très grands écrans."
+  },
+  "10": {
+    "en": "The footer is no longer centered on large screens.",
+    "fr": "Le footer n'est plus centré sur les grands écrans."
+  },
+  "11": {
+    "en": "Not every design preference should be reported as a bug.",
+    "fr": "Toutes les préférences de conception ne doivent pas être signalées comme des bugs."
+  },
+  "12": {
+    "en": "The navigation menu contains a duplicate contact link.",
+    "fr": "Le menu de navigation contient un lien « Contact » en double."
+  },
+  "13": {
+    "en": "The paragraph formatting is inconsistent.",
+    "fr": "La mise en forme du paragraphe est incohérente."
+  },
+  "14": {
+    "en": "One comment is misaligned compared with the others.",
+    "fr": "Un commentaire est désaligné par rapport aux autres."
+  },
+  "15": {
+    "en": "I should verify whether this behavior is expected before reporting it as a bug.",
+    "fr": "Je devrais vérifier si ce comportement est attendu avant de le signaler comme un bug."
+  },
+  "16": {
+    "en": "Exploratory tests do not have to be reported in a specific order.",
+    "fr": "Les tests exploratoires n'ont pas besoin d'être rapportés dans un ordre particulier."
+  },
+  "17": {
+    "en": "The vertical spacing is inconsistent in the mobile view.",
+    "fr": "L'espacement vertical est incohérent en vue mobile."
+  },
+  "18": {
+    "en": "The bug is reproducible and clearly documented.",
+    "fr": "Le bug est reproductible et clairement documenté."
+  },
+  "19": {
+    "en": "Asking for feedback before submitting is a professional habit.",
+    "fr": "Demander un avis avant de remettre un travail est une habitude professionnelle."
+  }
 }
