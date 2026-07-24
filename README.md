@@ -18,12 +18,8 @@ The goal is to create a quiet moment of attention through simple, carefully chos
 
 ## 📖 Example
 
-> "Aujourd'hui, je laisse la vie vivre."
-
-> "Quand je me tais, le monde entier me parle."
-
-> "Je n'ai rien à défendre, rien à gagner, rien à perdre."
-
+> Different sizes are not necessarily a bug.
+  Des tailles différentes ne sont pas forcément un bug
 ---
 
 ## 🚀 Features
@@ -59,9 +55,7 @@ Ephemeris/
 
 ## 🌱 Philosophy
 
-Ephemeris is not intended to motivate or persuade.
-
-It simply offers a sentence, then lets it continue its own journey in the reader's mind.
+I'm improving my professional English for software development and quality assurance (QA).
 
 ---
 
